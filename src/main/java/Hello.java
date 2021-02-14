@@ -4,5 +4,6 @@ public class Hello {
         System.out.println("EU4 something good");
 
         //movie on the phone
+        //movie on the phone 20 minutes
     }
 }
